@@ -28,7 +28,7 @@ https://nodejs.org/download/release/v8.0.0/node-v8.0.0.pkg
 cd ~
 git clone https://github.com/FrenchKit/SwiftServer
 mkdir ~/FoodTrackerBackend-Workshop
-cp -rf ~/SwiftServer ~/FoodTrackerBackend-Workshop
+cp -rf ~/SwiftServer/* ~/FoodTrackerBackend-Workshop
 cd ~/FoodTrackerBackend-Workshop
 ```
 
