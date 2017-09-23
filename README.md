@@ -26,7 +26,9 @@ https://nodejs.org/download/release/v8.0.0/node-v8.0.0.pkg
 1. Clone this project from GitHub to your machine (don't use the Download ZIP option):  
 ```
 cd ~
-git clone http://github.com/seabaylea/FoodTrackerBackend-Workshop
+git clone http://github.com/frenchkit/ServerSwift
+mkdir FoodTrackerBackend-Workshop
+cp -rf ~/ServerSwift ~/FoodTrackerBackend-Workshop
 cd ~/FoodTrackerBackend-Workshop
 ```
 
